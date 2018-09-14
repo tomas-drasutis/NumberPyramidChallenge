@@ -1,0 +1,7 @@
+D:\CODING\C#\Challenge\Challenge\bin\Debug\Challenge.exe.config
+D:\CODING\C#\Challenge\Challenge\bin\Debug\Challenge.exe
+D:\CODING\C#\Challenge\Challenge\bin\Debug\Challenge.pdb
+D:\CODING\C#\Challenge\Challenge\obj\Debug\Challenge.csprojResolveAssemblyReference.cache
+D:\CODING\C#\Challenge\Challenge\obj\Debug\Challenge.csproj.CoreCompileInputs.cache
+D:\CODING\C#\Challenge\Challenge\obj\Debug\Challenge.exe
+D:\CODING\C#\Challenge\Challenge\obj\Debug\Challenge.pdb
